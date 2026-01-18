@@ -1,1 +1,2 @@
-# usc-dsci560-sp26
+# USC DSCI 560
+## Made by Vincent-Daniel Yun
