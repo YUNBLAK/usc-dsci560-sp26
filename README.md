@@ -5,4 +5,4 @@ This GitHub repository is intended to store labs and assignments for USC’s DSC
 
 | Content | Link | Due date |
 |---|---|---|
-| Lab 01 | [lab01](YOUR_LAB01_LINK_HERE) | 01-17-2026 |
+| Lab 01 | [lab01](https://github.com/YUNBLAK/usc-dsci560-sp26/blob/main/lab01/Lab%201%20Report.pdf) | 01-17-2026 |
