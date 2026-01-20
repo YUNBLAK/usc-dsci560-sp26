@@ -1,8 +1,3 @@
-# Name: Vincent-Daniel Yun
-# ID: 4463771151
-# Email: yunjuyou@usc.edu
-# Course: DSCI 560
-
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -55,7 +50,7 @@ def get_latest_news_html():
 
 
 def main():
-    raw_dir = os.path.join("data", "raw_data")
+    raw_dir = os.path.join("../data", "raw_data")
     os.makedirs(raw_dir, exist_ok=True)
     out_path = os.path.join(raw_dir, "web_data.html")
 

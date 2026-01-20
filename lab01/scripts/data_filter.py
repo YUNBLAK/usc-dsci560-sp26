@@ -1,14 +1,9 @@
-# Name: Vincent-Daniel Yun
-# ID: 4463771151
-# Email: yunjuyou@usc.edu
-# Course: DSCI 560
-
 import os
 import csv
 from bs4 import BeautifulSoup
 
-RAW_HTML = os.path.join("data", "raw_data", "web_data.html")
-OUT_DIR = os.path.join("data", "processed_data")
+RAW_HTML = os.path.join("../data", "raw_data", "web_data.html")
+OUT_DIR = os.path.join("../data", "processed_data")
 NEWS_CSV = os.path.join(OUT_DIR, "news_data.csv")
 MARKET_CSV = os.path.join(OUT_DIR, "market_data.csv")
 
