@@ -36,3 +36,11 @@ Then, enter this command:
 
 
 ## Usage Case for "Python Web-scraping Task"
+This is for scraping data from the website: https://www.cnbc.com/world/?region=world. 
+Enter this command in `usc-dsci560-sp26/lab01/scripts` directory:
+
+    python web_scraper.py
+
+Then you can see a html file named `web_data.html` stored in `usc-dsci560-sp26/lab01/data/raw_data`
+
+
