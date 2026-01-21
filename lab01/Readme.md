@@ -15,5 +15,24 @@ There are several dependencies for this lab. Please make sure you already instal
     selenium
     
 
+## Usage Case for "Get Familiar with Linux and Python"
+
+After cloning the repository, confirm that the folder was created:
+
+    ls
+
+Then move into the `lab01` directory:
+
+    cd usc-dsci560-sp26/lab01
+
+For doing this subsection, we need to run `task_1.py` in scripts directory. Please move to `scripts` directory:
+
+    cd scripts
+
+Then, enter this command:
+
+    python task_1.py
 
 
+
+## Usage Case for "Python Web-scraping Task"
