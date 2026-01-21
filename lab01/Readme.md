@@ -46,6 +46,11 @@ Please use this command for printing the first 10 lines of the created html file
 
     head -n 10 web_data.html
 
-## Data Filtering Task
+## Use Case for "Data Filtering Task"
+Enter this command in `usc-dsci560-sp26/lab01/scripts` directory to read `web_data.html` and extract information:
+
+    python data_filter.py
+
+Then, `market_data.csv` and `news_data.csv` will be in `usc-dsci560-sp26/lab01/data/processed_data`
 
 
